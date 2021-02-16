@@ -4,9 +4,9 @@ Ini merupakan program parkir yang kami buat untuk mempermudah dalam pengelolaan 
 <img src = "https://github.com/adamnurk/TUGAS-BESAR-PBO-KELOMPOK6/blob/main/LOGO-ITTP-Tagline.png">
 
 ## Nama Kelompok
-1. Adam Nur Kridabayu             19104078
-2. M. ALFIAN MAULANA AL-AZHAR     19104019
-3. Adil El-FARUQI                 19104081
+1. Adam Nur Kridabayu             19104078 konstribusi ( Membuat program dan membuat readmi publikasi)
+2. M. ALFIAN MAULANA AL-AZHAR     19104019 konstribusi ( Membantu memberikan ide dan menyusun calss diagram )
+3. Adil El-FARUQI                 19104081 konstribusi ( Membuat class diagram)
 
 ## Latar Belakang Program
 pada jaman modern seperti sekarang ini, kemajuan teknologi sangat pesat dan berkembang. seiring perkembangan 
