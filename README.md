@@ -5,7 +5,7 @@ Ini merupakan program parkir yang kami buat untuk mempermudah dalam pengelolaan 
 
 ## Nama Kelompok
 1. Adam Nur Kridabayu             19104078 konstribusi ( Membuat program dan membuat readmi publikasi)
-2. M. ALFIAN MAULANA AL-AZHAR     19104019 konstribusi ( Membantu memberikan ide dan menyusun calss diagram )
+2. M. ALFIAN MAULANA AL-AZHAR     19104019 konstribusi ( Membantu memberikan ide dan membuat calss diagram )
 3. Adil El-FARUQI                 19104081 konstribusi ( Membuat class diagram)
 
 ## Latar Belakang Program
